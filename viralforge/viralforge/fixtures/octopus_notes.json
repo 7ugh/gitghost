@@ -1,0 +1,15 @@
+{
+  "_note": "Hand-written test notes (own wording, from general knowledge). NOT fetched live - verify against a real source before posting.",
+  "topic": "Octopuses have three hearts",
+  "sources": [
+    {"id": "N1", "title": "Author-written notes: octopus circulatory system (general zoology knowledge)", "url": "", "license": "own work", "trust": "user"},
+    {"id": "N2", "title": "Author-written notes: hemocyanin and cephalopod blood (general biology knowledge)", "url": "", "license": "own work", "trust": "user"}
+  ],
+  "facts": [
+    {"id": "F1", "text": "An octopus has three hearts: two pump blood past the gills, and a third pumps it around the rest of the body.", "source": "N1"},
+    {"id": "F2", "text": "Octopus blood is blue because it carries oxygen with a copper-based protein called hemocyanin instead of iron-based hemoglobin.", "source": "N2"},
+    {"id": "F3", "text": "Copper-based blood works well in cold, low-oxygen water, which is part of why it suits many deep-sea animals.", "source": "N2"},
+    {"id": "F4", "text": "The heart that feeds the body stops beating while an octopus swims, which is one reason they tire quickly and prefer to crawl.", "source": "N1"},
+    {"id": "F5", "text": "An octopus also has nine brains: a central brain plus a small cluster of nerve cells in each of its eight arms.", "source": "N1"}
+  ]
+}

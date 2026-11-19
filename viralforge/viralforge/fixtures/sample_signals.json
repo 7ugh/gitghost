@@ -1,0 +1,14 @@
+{"_note": "SAMPLE DATA for offline testing only. Not real research results.",
+ "signals": [
+  {"source": "reddit/r/todayilearned", "title": "TIL octopuses have three hearts and blue blood", "score": 41000, "age_hours": 9, "category": "facts"},
+  {"source": "reddit/r/science", "title": "Octopus hearts stop beating when they swim, study explains why they prefer to crawl", "score": 8000, "age_hours": 20},
+  {"source": "google_trends", "title": "octopus intelligence", "score": 900, "age_hours": 12},
+  {"source": "news/bbc", "title": "Why do octopuses have three hearts? Scientists explain", "score": 94, "age_hours": 10},
+  {"source": "reddit/r/gaming", "title": "Roblox player builds working calculator inside a game", "score": 15000, "age_hours": 7, "category": "roblox"},
+  {"source": "hackernews", "title": "A tiny open-source chip runs a language model on a battery", "score": 700, "age_hours": 6, "category": "technology"},
+  {"source": "reddit/r/Showerthoughts", "title": "What if the moon disappeared overnight", "score": 22000, "age_hours": 11, "category": "what-if"},
+  {"source": "reddit/r/UnresolvedMysteries", "title": "The lighthouse keepers who vanished from Flannan Isles in 1900", "score": 12000, "age_hours": 14, "category": "mysteries"},
+  {"source": "reddit/r/funny", "title": "Cat confidently walks into glass door in slow motion", "score": 30000, "age_hours": 5, "category": "comedy"},
+  {"source": "news/bbc", "title": "Police shooting leaves two dead in city centre", "score": 90, "age_hours": 3},
+  {"source": "wikipedia/most-read", "title": "Flannan Isles Lighthouse", "score": 120, "age_hours": 36, "category": "mysteries"}
+ ]}
